@@ -1,0 +1,24 @@
+body
+    {
+        margin:0;
+        background-image: url("../img/background.jpg");
+        /*background-color: #cccccc; */
+
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .container{max-width:1200px;position:relative;margin:auto;}
+
+    header{padding: 20px 0 20px 0; background-color: #87c149; margin: 0 0 25px 0;}
+
+    h1 {font-family: 'Praise', cursive; color: #ffffff;text-align:center; font-size:60pt;}
+    h2 {font-family: 'Oxygen', sans-serif; color: #ffffff;text-align:center;}
+    p{font-family: 'Oxygen', sans-serif; color: #ffffff;line-height: 150%; margin: 0 0 25px 0; font-size: 14pt;}
+
+    .curiosidades{font-family: 'Oxygen', sans-serif; color: #ffffff;}
+    .curiosidades a {color: #ffffff; font-weight: bold;}
+
+    .rodape {text-align: center;}
+    .rodape img {width: 35px; height: 35px;}
